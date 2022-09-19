@@ -1,0 +1,13 @@
+.effect{
+    background-color:white;
+        color:black;
+        width:170px;
+        border-radius:30px;
+        padding:7px;
+        font-weight:bold;
+       margin-right:20px
+}
+.effect:hover{
+    background-color: black;
+    color: white;
+}

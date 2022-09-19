@@ -1,0 +1,33 @@
+.products h1{
+    color: red;
+    margin-left: 5vw;
+    font-size: 60px;
+    font-family: sans-serif;
+    padding-top: 30px;
+}
+.products p{
+    color: white;
+    margin-left: 5vw;
+    font-size: 20px;
+}
+.products img{
+   width: 600px;
+   height: 600px;
+   margin-top: -550px;
+
+}
+.products a{
+ color: white;
+ font-size: 25px;
+ border-radius: 30px;
+ background-color: red;
+ width: 500px;
+ padding: 5px 70px;
+ text-decoration: none;
+ margin-left: 5vw;
+ margin-top: -5vh;
+ margin-bottom: 30vh;
+}
+.products{
+    background-color: black;
+}

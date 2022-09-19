@@ -1,0 +1,44 @@
+
+.header{
+    width: 100%;
+    height: 99vh;
+
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-size: cover;
+    background-image: url('https://2020.productthinking.io/static/media/first_carousel.db6735fc.jpg')
+    
+}
+
+
+.container{
+    margin-left: 1vw;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 13vh;
+}
+.text{
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    width: 300px;
+    margin-bottom:-20px;
+    
+} 
+.text:first-child{
+    margin-top: 3vh;
+}
+.text:hover{
+    background-color: yellow;
+    text-decoration: none;
+    color: black;
+    padding: 3px;
+    width: 440px;
+    
+    
+}
+img{
+    width: 70px;
+    height: 70px;
+    
+}
+
