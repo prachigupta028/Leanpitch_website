@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Leanpitch_website/static/css/main.17d5e08c.css",
+    "main.js": "/Leanpitch_website/static/js/main.160c9209.js",
+    "static/js/787.5c0a4146.chunk.js": "/Leanpitch_website/static/js/787.5c0a4146.chunk.js",
+    "index.html": "/Leanpitch_website/index.html",
+    "main.17d5e08c.css.map": "/Leanpitch_website/static/css/main.17d5e08c.css.map",
+    "main.160c9209.js.map": "/Leanpitch_website/static/js/main.160c9209.js.map",
+    "787.5c0a4146.chunk.js.map": "/Leanpitch_website/static/js/787.5c0a4146.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17d5e08c.css",
+    "static/js/main.160c9209.js"
+  ]
+}
